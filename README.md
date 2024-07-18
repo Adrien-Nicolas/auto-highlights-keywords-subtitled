@@ -5,6 +5,8 @@
 ## Description
 This repository contains a small testing project showcasing the possibility of creating highlights using speech-to-text and keyword research for automatic video cuts.
 
+![image](https://github.com/user-attachments/assets/5b78d7fd-a524-473a-86a1-b4ce773b7008)
+
 ## Installation
 ```bash
 pip install git+https://github.com/m-bain/whisperx.git
